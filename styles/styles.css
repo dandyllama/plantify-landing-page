@@ -161,6 +161,7 @@ button {
   width: 200px;
   border: 2px solid green;
   border-radius: 10px;
+  object-fit: cover;
 }
 
 /* TESTIMONIAL */
